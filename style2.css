@@ -1,0 +1,102 @@
+html {
+    height: 100%; 
+    margin:0px; 
+    height: 100%;
+  }
+
+body { 
+    margin: 0px;   
+       
+}
+
+#container {
+       padding:0px;
+       height: 100%;  
+}
+
+
+#nav-id {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;   
+}
+
+.main {
+    margin-top: 300px;
+    display: block;  
+}
+
+a.social:link{
+    opacity: .6;
+    text-decoration: none;
+}
+
+
+a.social:hover{
+    opacity: 1;
+    text-decoration: none;
+}
+
+
+#met1{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 1.6px;
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
+
+#met2{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 2;
+    margin-bottom: 30px;
+}
+
+#met3{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    letter-spacing: 1.6px;
+    line-height: 1.8;
+    margin-bottom: 80px;
+}
+
+
+
+.footer {
+    
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+    background-color: #070707;
+    padding: 30px;
+    }
+
+.terms {
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    p
+
+}
+
+.row{
+    margin:0px;
+}
+
+
+#law{
+    background-image: url("assets/quienes.png");
+    background-size: cover;
+    padding-left:0px;
+    padding-right:0px;
+    
+  }
