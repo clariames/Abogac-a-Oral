@@ -1,0 +1,44 @@
+#texto-colab{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: .5px;
+    line-height: 2;
+    margin-bottom: 5vh;
+    margin-top: 8vh;
+}
+
+.colab-title {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.colab-text {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+
+.footer {
+    
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+    background-color: #070707;
+    padding: 30px;
+    }
+.terms {
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+}
+.row{
+    margin:0px;
+}
