@@ -18,7 +18,7 @@ This next bit loads the form field data into variables.
 If you add a form field, you will need to add it here.
 */
 $name = $_REQUEST['name'] ;
-$emails = $_REQUEST['email'] ;
+$email = $_REQUEST['email'] ;
 $country = $_REQUEST['country'] ;
 $message = $_REQUEST['message'] ;
 
